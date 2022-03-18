@@ -1,0 +1,5 @@
+~ welcome
+~Documentation/foo.html
+ ~Documentation/gitignore.html
+ ~file.o
+ ~src/internal.o
